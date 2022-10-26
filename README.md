@@ -1,2 +1,0 @@
-# TP_Ramos
-TP1 BAMULTIPLICA 2.0
